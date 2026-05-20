@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.whl
+
+# PyTorch / ML
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.pkl
+*.h5
+*.pkl
+
+# Data
+datasets/
+models/
+*.csv
+*.json
+*.txt
+
+# Docs
+*.docx
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp
+*.tmp
+*.bak
