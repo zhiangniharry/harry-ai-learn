@@ -33,6 +33,9 @@ models/
 *.docx
 *.xlsx
 
+# MCP servers
+.github-mcp/
+
 # OS
 .DS_Store
 Thumbs.db
